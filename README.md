@@ -1,0 +1,1 @@
+Hello to the GitHub repository of my personal website! If you've found this, then you certainly know your way around GitHub in general. I hope by creating this website, I gain a better understanding of the grid layout. 
